@@ -2,6 +2,7 @@
 
 ## Education
 Bachelor of Sciences with specialization in Mathematics and Statistics
+
 Chartered Financial Analyst Candidate
 
 ## Software Skills
