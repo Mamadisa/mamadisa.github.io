@@ -9,7 +9,7 @@ Chartered Financial Analyst Candidate
 Python | R | SQL
 
 ## Core Skills
-Time Series Analysis | Data Analysis
+Time Series Analysis | Data Analysis | 
 Financial Analysis | Forecasting
 
 ### **PROJECTS:**
