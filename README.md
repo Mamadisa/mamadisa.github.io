@@ -1,6 +1,6 @@
 ### Data Scientist | Data Analyst
 
-📊 Passionate about turning data into actionable insights, with a strong foundation in mathematical modeling, statistical analysis, and financial markets.
+📊 Passionate about turning data into actionable insights, with a strong foundation in mathematical modeling, statistical analysis and financial markets.
 
 ## 🎓 Bachelor of Science – Specialization in Mathematics and Statistics
 
